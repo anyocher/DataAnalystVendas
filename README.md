@@ -1,4 +1,8 @@
 # Projeto: Análise de Vendas com Python + Power BI
+## Dashboard de Vendas no Power BI
+<img width="1536" height="1024" alt="Análise de Vendas Loja Online" src="https://github.com/user-attachments/assets/e29edc7c-5c2c-4c1a-b512-8b004eeb86bd" />
+
+
 ##  Descrição do Projeto
 Este projeto tem como objetivo realizar uma **análise completa de vendas de uma loja online**, utilizando **Python** para o tratamento e limpeza dos dados e **Power BI** para a construção de um **dashboard interativo** com visualizações e insights de negócio.
 
